@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Yuri Alves Lopes !
 
-###### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação. Sou proativo, sempre buscando superar obstáculos que me permitam aplicar com entusiasmo meu conhecimento e criatividade na criação de soluções inovadoras. Estou profundamente comprometido com o meu crescimento profissional, disposto a enfrentar desafios e aprimorar minhas habilidades para manter a constante evolução e contribuir de forma significativa no campo da tecnologia.
+###### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação. Sou proativo, sempre buscando superar obstáculos que me permitam aplicar com entusiasmo meu conhecimento e criatividade na criação de soluções inovadoras. Estou completamente comprometido com o meu crescimento profissional, disposto a enfrentar desafios e aprimorar minhas habilidades para manter a constante evolução e contribuir de forma significativa no campo da tecnologia.
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
