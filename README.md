@@ -1,5 +1,5 @@
 
-## Olá, eu sou o Yuri Alves Lopes !
+## Olá, eu sou o Yuri 😄
 
 ###### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação. Sou proativo, sempre buscando superar obstáculos que me permitam aplicar com entusiasmo meu conhecimento e criatividade na criação de soluções inovadoras. Estou completamente comprometido com o meu crescimento profissional, disposto a enfrentar desafios e aprimorar minhas habilidades para manter a constante evolução e contribuir de forma significativa no campo da tecnologia.
 
