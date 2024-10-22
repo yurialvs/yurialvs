@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Yuri 😄
 
-###### Estudante de Análise e Desenvolvimento de Sistemas. Sempre buscando superar os obstáculo e aplicando com entusiasmo e criatividade meu conhecimento na criação de soluções inovadoras. Estou completamente comprometido com o meu crescimento profissional, disposto a enfrentar desafios e aprimorar minhas habilidades para manter a constante evolução e contribuir de forma significativa no campo da tecnologia.
+###### Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento de Sistemas. Sempre buscando superar os obstáculo e aplicando com entusiasmo e criatividade meu conhecimento na criação de soluções inovadoras. Estou completamente comprometido com o meu crescimento profissional, disposto a enfrentar desafios e aprimorar minhas habilidades para manter a constante evolução e contribuir de forma significativa no campo da tecnologia.
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
