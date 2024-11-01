@@ -5,11 +5,11 @@ Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento 
 
 #### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-◩ HTML ◩ CSS ◩ JavaScript ◩ Python ◩ Figma
+◆ HTML ◆ CSS ◆ JavaScript ◆ Python ◆ Figma
 
 #### 💻 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
-◩ [LinkedIn](https://www.linkedin.com/in/yurialvs/)
+◆ [LinkedIn](https://www.linkedin.com/in/yurialvs/)
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
