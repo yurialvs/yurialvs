@@ -3,11 +3,11 @@ Olá, eu sou o 𝗬𝘂𝗿𝗶 😄
 
 Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento de Sistemas. Completamente comprometido com o meu crescimento profissional e evolução das minhas habilidades para contribuir de forma significativa no campo da tecnologia, buscando superar os desafios com entusiasmo e criatividade na aplicação de soluções inovadoras.
 
-## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+#### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 ◉ HTML ◉ CSS ◉ JavaScript ◉ Python ◉ Figma
 
-## 💻 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
+#### 💻 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
 ◉ [LinkedIn](https://www.linkedin.com/in/yurialvs/)
 
