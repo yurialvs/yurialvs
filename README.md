@@ -12,7 +12,7 @@ Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento 
 
 #### 🛠️ Tech Stack
 ---
-
+___
 ◉ HTML ◉ CSS ◉ JavaScript ◉ Python ◉ Figma
 
 #### 💻 Contact
