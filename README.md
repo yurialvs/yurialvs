@@ -18,4 +18,4 @@ Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurialvs/)
 
-[![LinkedIn]](https://www.linkedin.com/in/yurialvs/)
+[LinkedIn](https://www.linkedin.com/in/yurialvs/)
