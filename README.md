@@ -1,13 +1,13 @@
 
-## 𝐘𝐮𝐫𝐢 𝐀𝐥𝐯𝐞𝐬 𝐋𝐨𝐩𝐞𝐬 😄
+## 𝚈𝚞𝚛𝚒 𝙰𝚕𝚟𝚎𝚜 𝙻𝚘𝚙𝚎𝚜 😄
 
 Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento de Sistemas. Completamente comprometido com o meu crescimento profissional e evolução das minhas habilidades para contribuir de forma significativa no campo da tecnologia, buscando superar os desafios com entusiasmo e criatividade na aplicação de soluções inovadoras.
 
-### 🛠️ Tech Stack
+### 🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 
 ◉ HTML ◉ CSS ◉ JavaScript ◉ Python ◉ Figma
 
-### 💻 Contact
+### 💻 𝙲𝚘𝚗𝚝𝚊𝚌𝚝
 
 ◉ [LinkedIn](https://www.linkedin.com/in/yurialvs/)
 
