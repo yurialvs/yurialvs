@@ -1,5 +1,5 @@
 
-# 𝙴𝚞 𝚜𝚘𝚞 𝚘 𝚈𝚞𝚛𝚒 😄
+# 𝕐𝕦𝕣𝕚 𝔸𝕝𝕧𝕖𝕤 𝕃𝕠𝕡𝕖𝕤 🎮
 
 Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento de Sistemas. Completamente comprometido com o meu crescimento profissional e evolução das minhas habilidades para contribuir de forma significativa no campo da tecnologia, buscando superar os desafios com entusiasmo e criatividade na aplicação de soluções inovadoras.
 
