@@ -17,4 +17,4 @@ Estagiário de Requisitos de Software e estudante de Análise e Desenvolvimento 
 
 #### 💻 Contact
 
-[◉ LinkedIn](https://www.linkedin.com/in/yurialvs/)
+◉ [LinkedIn](https://www.linkedin.com/in/yurialvs/)
