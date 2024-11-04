@@ -5,7 +5,7 @@ Eu sou o Yuri, estagiário de Requisitos de Software e estudante de Análise e D
 
 #### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-◉ HTML ◉ CSS ◉ JavaScript ◉ Python ◉ Figma
+◉ HTML ◉ CSS ◉ JavaScript ◉ Python ◉ Figma ◉ Jira
 
 #### 💻 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
