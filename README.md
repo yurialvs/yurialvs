@@ -12,6 +12,4 @@
 
 🖥️ • [LinkedIn](https://www.linkedin.com/in/yurialvs/) •
 
-<h1 style="text-align: center;"> ▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️</h1> 
-
 [![Yuri GitHub Streak](https://streak-stats.demolab.com?user=yurialvs&theme=transparent&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
