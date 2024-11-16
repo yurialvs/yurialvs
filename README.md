@@ -1,6 +1,8 @@
-### Olá, eu sou o Yuri <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />
+<div align="center">
+<h2>Olá, eu sou o Yuri </h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />
 
-<p align="center">▫️▫️▫️▫️▫️</p>
+<p >▫️▫️▫️▫️▫️</p>
+</div>
 
 ### [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞]
 
