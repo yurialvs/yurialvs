@@ -1,5 +1,6 @@
 <div align="center">
-<h3>Olá, eu sou o Yuri <img src="https://media.tenor.com/Jr1bakBDI4wAAAAi/marco-marco-rossi.gif" alt="metalslug" width="40" height="45" /> </h3>
+<h3>Olá, eu sou o Yuri</h3>
+<img src="https://media1.tenor.com/m/naR85rQtmLsAAAAd/code-secret.gif" alt="metalslug" width="40" height="45" /> 
 
 <p>• • • • •</p>
 </div>
