@@ -1,4 +1,6 @@
-### Olá, eu sou o Yuri <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" />
+### Olá, eu sou o Yuri ![emoji](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png)
+
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞]
 
@@ -15,5 +17,3 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 [![Yuri GitHub Streak](https://streak-stats.demolab.com?user=yurialvs&theme=transparent&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
-
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
