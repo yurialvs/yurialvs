@@ -2,7 +2,7 @@
 <h3>Olá, eu sou o Yuri</h3>
 <img src="https://media1.tenor.com/m/naR85rQtmLsAAAAd/code-secret.gif" alt="metalslug" width="50" height="50" /> 
 
-<p>• • • • •</p>
+<p>• • • • • • • • •</p>
 </div>
 
 ### [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞]
@@ -18,7 +18,7 @@
 🖥️ • [LinkedIn](https://www.linkedin.com/in/yurialvs/) •
 
 <div align="center">
-<p>• • • • •</p>
+<p>• • • • • • • • •</p>
 
 [![Yuri GitHub Streak](https://streak-stats.demolab.com?user=yurialvs&theme=transparent&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 </div>
