@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Olá, eu sou o Yuri </h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />
+<h3>Olá, eu sou o Yuri </h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />
 
 <p >▫️▫️▫️▫️▫️</p>
 </div>
