@@ -10,7 +10,9 @@
 
 ### [𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤]
 
-🏆 • HTML • CSS • JavaScript • Python • Figma • Jira • 
+🏆 • `HTML` • `CSS` • `JavaScript` • `Python` • `Figma` • `Jira` • 
+
+ <strong> **`Back-End Developer / Curioso / Criativo / Autodidata`** <strong>
 
 ### [𝐂𝐨𝐧𝐭𝐚𝐜𝐭]
 
