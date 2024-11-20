@@ -12,11 +12,9 @@
 
 🏆 • `HTML` • `CSS` • `JavaScript` • `Python` • `Figma` • `Jira` • 
 
- <strong> **`Back-End Developer / Curioso / Criativo / Autodidata`** <strong>
-
 ### [𝐂𝐨𝐧𝐭𝐚𝐜𝐭]
 
-🖥️ • [LinkedIn](https://www.linkedin.com/in/yurialvs/) •
+🖥️ • `[LinkedIn](https://www.linkedin.com/in/yurialvs/)` •
 
 <div align="center">
 <p>▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
