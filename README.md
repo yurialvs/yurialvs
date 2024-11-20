@@ -28,10 +28,9 @@
 
 🖥️ • [`LinkedIn`](https://www.linkedin.com/in/yurialvs/) •
 
-### []
+### [𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬]
 
 <div align="center">
-<p>▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱</p>
 
 [![Yuri GitHub Streak](https://streak-stats.demolab.com?user=yurialvs&theme=transparent&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 </div>
