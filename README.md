@@ -21,7 +21,7 @@ Olá, eu sou o
 
 ### [𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤]
 
-🏆 • `HTML` • `CSS` • `JavaScript` • `Python` • `Figma` • `Jira` • `Git` •
+🏆 • `HTML` • `CSS` • `JavaScript` • `Python` • `Figma` • `Jira` • `Git` • `TypeScript` •
 
 ### [𝐂𝐨𝐧𝐭𝐚𝐜𝐭]
 
