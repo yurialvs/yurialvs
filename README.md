@@ -17,7 +17,7 @@ Olá, eu sou o
 
 ### [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞]
 
-🚀 Analista de Requisitos de Software, graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia da Computação. Completamente comprometido com o meu crescimento profissional e evolução das minhas habilidades para contribuir de forma significativa no campo da tecnologia, buscando superar os desafios com entusiasmo e criatividade na aplicação de soluções inovadoras. 
+🚀 Analista de Requisitos de Software certificado na CPRE-FL® pela IREB, graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia da Computação. Completamente comprometido com o meu crescimento profissional e evolução das minhas habilidades para contribuir de forma significativa no campo da tecnologia, buscando superar os desafios com entusiasmo e criatividade na aplicação de soluções inovadoras. 
 
 ### [𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤]
 
